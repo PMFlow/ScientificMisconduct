@@ -11,7 +11,7 @@ itest=0;
 % itest=1; 
 %% computations with IC from [Suciu et al., 2021], that actually give the 
 %% solutions from Figs. 4 and 5 in Paper1 [Song and Jiang 2023]; 
-%% Note: in these figures, which creates the impression that there is a different 
+%% Note: in these figures, which create the impression that there is a different 
 %% solution from the one from in [Suciu et al., 2021], the depth axis is changed 
 %% from z\in[0,2] in z\in[2,0] !!!
 
