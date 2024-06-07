@@ -72,7 +72,6 @@ while t<=T
     D=K(tht); D=D(1:I-1);
     dt=dx^2*maxr/max(D)/2; % r<=1/2 such that 1-2*r>=0
     t=t+dt;
-    fprintf(fileID,'%2.2e  %2.2e\n',t, dt ) ;
     eps=zeros(1,S); 
     for s=1:S
         D=K(tht); D=D(1:I-1); 
