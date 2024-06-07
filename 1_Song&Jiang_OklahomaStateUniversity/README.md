@@ -8,5 +8,3 @@ The university has not taken a position regarding this report, there was no feed
 
 The elements of scientific misconduct, such as Plagiarism, Falsification, and Fabrication identified in the three articles published by Song and Jiang are presented in 
 the red-color comments made on Paper1, Paper2, and Paper3 and demonstrated with associated Matlab codes. 
-
- (Please download the .pdf files to see the comments; they are not visible in github.)
