@@ -1,5 +1,5 @@
 ##
-Zeyuan Song and Zheyu Jiang from Oklahoma State University (USA) published tree articles based on [Suciu et al., 2021] (https://doi.org/10.1016/j.advwatres.2021.103935) 
+Zeyuan Song and Zheyu Jiang from Oklahoma State University (USA) published three articles based on [Suciu et al., 2021] (https://doi.org/10.1016/j.advwatres.2021.103935) 
 and the accompanying Git-repository https://github.com/PMFlow/RichardsEquation, containing the Matlab codes used in [Suciu et al., 2021].
 
 The first author of the above article sent on 16/02/2024 a report on scientific misconduct to the Etics Point of Oklahoma State University (see EthicsPoint_report.pdf). 
