@@ -3,7 +3,7 @@ FABRICATION and FALSIFICATION of results in Paper2:
 
 Figure 1 and Figure 2 are FABRICATED with the  code 'SongJiang_fabricated_IC_Paper2.m'
 (also posted at
-https://github.com/PMFlow/RichardsEquation/blob/main/2D/Richards_2D/main_Richards_2D_Flow_benchmark.m)
+https://github.com/PMFlow/RichardsEquation/blob/main/2D/Richards_2D/Richy_2D_Flow_benchmark_IC_SongJiang.m)
 
 These figures are obtained by altering the initial conditions formulated in this article as follows:
 
