@@ -68,11 +68,6 @@ tht=theta(p);
 tht0=tht;
 pa=p;
 iS=1:S;
-if itest == 0
-    fileID = fopen('dt_scenario1','w');
-else
-    fileID = fopen('dt_scenario2','w');
-end
 while t<=T
     D=K(tht); D=D(1:I-1);
     dt=dx^2*maxr/max(D)/2; % r<=1/2 such that 1-2*r>=0
