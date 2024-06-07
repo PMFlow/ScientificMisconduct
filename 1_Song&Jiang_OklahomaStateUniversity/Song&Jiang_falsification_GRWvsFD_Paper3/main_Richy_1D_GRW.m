@@ -62,9 +62,9 @@ while t<=T
         restr=rloc.*n+restr; nn=floor(restr); restr=restr-nn;  njump=n-nn;
         rest1=r(2:I-1).*n(3:I)+rest1; njumpleft=floor(rest1); rest1=rest1-njumpleft; % left jumps
         nn(2:I-1)=nn(2:I-1)+njumpleft;
-        rest2=r(1:I-2).*n(1:I-2)+rest2; njumpright=floor(rest2); rest2=rest2-njumpright; % left jumps
+        rest2=r(1:I-2).*n(1:I-2)+rest2; njumpright=floor(rest2); rest2=rest2-njumpright; % right jumps
         nn(2:I-1)=nn(2:I-1) +njumpright;                 
-        %% FD scheme: can be retrived by removing 'floor' everywhere; p=n/N; pp=nn?N;
+        %% FD scheme: can be retrived by removing 'floor' everywhere; p=n/N; pp=nn/N;
         % pp=rloc.*p;
         % dp=p-pp;
         % pp(2:I-1)=pp(2:I-1)+r(2:I-1).*p(3:I); % left jumps    %% without jumps on boundaries where the solution is given by BC
