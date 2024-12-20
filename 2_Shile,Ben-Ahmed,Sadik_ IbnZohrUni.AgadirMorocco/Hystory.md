@@ -1,4 +1,4 @@
-The commented article of Shile, Ben-Ahmed, and Sadik [2024] is a version of the manuscript submitted by the authors Shile, Ben-Ahmed, and Sadik to another journal November 2022. This manuscript contains exactly the same numerical results for both code verification tests and statistical inferences as the article commented here. 
+The commented article of Shile, Ben-Ahmed, and Sadik [2024] is a version of the manuscript submitted by the authors Shile, Ben-Ahmed, and Sadik to another journal in November 2022. This manuscript contains exactly the same numerical results for both code verification tests and statistical inferences as the article commented here. 
 
 I was invited to review the manuscript and I accepted because the topic was very familiar to me. I co-authored and coordinated the article “Numerical benchmark study for flow in highly heterogeneous aquifers” by Alecsa et al. [2020] - https://doi.org/10.1016/j.advwatres.2020.103558, cited as reference [7] in the commented article. 
 
