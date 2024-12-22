@@ -8,5 +8,5 @@ Anal. Bound. Elem. 2024;163:237–50. http://dx.doi.org/10.1016/j.enganabound.20
 
 - "Comment on [Shile et al., 2024].pdf" demonstrates that the Monte Carlo results presented in their article are made up and the comparisons with literature results are falsified.
 
-- "Hystory.md" illustrates more elements of scientific misconduct in previous versions of the article [Shile et al., 2024]. 
+- "Hystory.md" shows more elements of scientific misconduct in previous versions of the article [Shile et al., 2024]. 
 
