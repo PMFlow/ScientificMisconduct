@@ -15,5 +15,5 @@ one obtains Figs. 1a and 2a.
 
 With the supplementary condition
 - \varphy(t=0)=0 on the first half of the top boundary {x\in[0,1] and z=2} on obtains Figs. 1b and 2b.
-
- Claiming that Figures 1 and 2 of in Paper 2, fabricated with a 2-dimensional code, are three-dimensional solutions is a gross FALSIFICATION of the results
+#
+ Claiming that Figures 1 and 2, fabricated with a 2-dimensional code, are three-dimensional solutions is a gross FALSIFICATION of the results
