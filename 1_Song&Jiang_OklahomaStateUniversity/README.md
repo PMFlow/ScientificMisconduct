@@ -6,7 +6,7 @@ The first author of the above article sent on 16/02/2024 a report on scientific 
 The university has not taken a position regarding this report, there was no feedback at all, and in the meantime the report is closed without any questions and comments 
 (see EthicsPoint_closed.pdf).
 
-A second report, sent on 20/12/2024 has been closed based on a preliminary review that is analized in the file "Oklahoma State University Tolerates Scientific Misconduct.md". 
+A second report, sent on 20/12/2024 has been closed on 23/01/2024, based on a preliminary review that is analized in the file "Oklahoma State University Tolerates Scientific Misconduct.md". 
 #
 The elements of scientific misconduct, such as Plagiarism, Falsification, and Fabrication identified in the three articles published by Song and Jiang are presented in 
 the red-color comments made on Paper1, Paper2, and Paper3 and demonstrated with associated Matlab codes. 
