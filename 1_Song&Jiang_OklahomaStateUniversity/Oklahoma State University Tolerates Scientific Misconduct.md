@@ -3,11 +3,11 @@ A) FACTS presented in the repository https://github.com/PMFlow/ScientificMiscond
 2. Fabrication of results (see red comment #13 on page 5 in Paper2-commented.pdf and demonstration that the 3-dimensional results are in fact fabricated with a 2-dimensional code already published in the literature in Song&Jiang_fabricated_IC_Paper2).
 3. Falsification of results produced by codes published in the literature (see red comment #4 on page 14 in Paper3-commented.pdf and demonstration of the false statement that the relation between the pressure head solution and the number of particles in “neither smooth nor explicit” in Song&Jiang_falsification_GRWvsFD_Paper3.
 #
-B) COMMUNNICATION from EthicsPoint | Oklahoma State University
+B) COMMUNNICATION from EthicsPoint | Oklahoma State University (https://hr.okstate.edu/ethics-point.html)
 
 “… the allegation does not meet the definition of research misconduct under University Policy 4-0125. This determination was made because the issues presented in the allegations are a matter of differences in scientific opinions, rather than research misconduct.”
 #
-C) DEFINITIONS from University Policy 4-0125
+C) DEFINITIONS from University Policy 4-0125 (https://adminfinance.okstate.edu/site-files/documents/policies/complaints-of-research-misconduct.pdf)
 
 2.03 “Fabrication” means making up data or results and recording or reporting them.
 
