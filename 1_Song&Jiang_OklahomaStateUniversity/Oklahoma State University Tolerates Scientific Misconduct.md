@@ -7,10 +7,14 @@ B) COMMUNNICATION from EthicsPoint | Oklahoma State University
 “… the allegation does not meet the definition of research misconduct under University Policy 4-0125. This determination was made because the issues presented in the allegations are a matter of differences in scientific opinions, rather than research misconduct.”
 #
 C) DEFINITIONS from University Policy 4-0125
+
 2.03 “Fabrication” means making up data or results and recording or reporting them.
+
 2.04 “Falsification” means manipulating research materials, equipment or processes, or changing or omitting data or results such that the research is not accurately represented in the research record.
+
 2.07 “Plagiarism” means the appropriation of another person’s ideas, processes, results, or words without giving appropriate credit.
+
 2.09 “Research Misconduct” means fabrication, falsification, plagiarism, or other practices which seriously deviate from those commonly accepted within the scholarly community for proposing, conducting, or reporting research. It does not include honest errors or differences in opinion.
 #
-D) CONCLUSION
+D) CONCLUSION:
 Since the facts presented at item A) above, demonstrated and verifiable, match the definitions from item C), they cannot be qualified as “differences in scientific opinions”. Closing the report on scientific misconduct based on the obviously superficial and incorrect conclusion of the preliminary review (item B above), Oklahoma State University tolerates the scientific misconduct consisting of plagiarism, fabrication, and falsification. 
