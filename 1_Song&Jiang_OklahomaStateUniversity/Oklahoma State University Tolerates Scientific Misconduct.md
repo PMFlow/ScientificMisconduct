@@ -4,6 +4,7 @@ A) FACTS presented in the repository https://github.com/PMFlow/ScientificMiscond
 3. Falsification of results produced by codes published in the literature (see red comment #4 on page 14 in Paper3-commented.pdf and demonstration of the false statement that the relation between the pressure head solution and the number of particles in “neither smooth nor explicit” in Song&Jiang_falsification_GRWvsFD_Paper3.
 #
 B) COMMUNNICATION from EthicsPoint | Oklahoma State University
+
 “… the allegation does not meet the definition of research misconduct under University Policy 4-0125. This determination was made because the issues presented in the allegations are a matter of differences in scientific opinions, rather than research misconduct.”
 #
 C) DEFINITIONS from University Policy 4-0125
