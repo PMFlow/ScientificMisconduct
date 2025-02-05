@@ -18,7 +18,7 @@ These results demonstrate the willful falsification of the results presented in 
 
 - 'pGRWe3.mat' ... 'pGRWe24.mat' are files containing the pressure head computed with the BGRW code for increasing numbers of particles N=1e-3, ... , N=1e-24.
 
-- 'rGRWe3.mat' ... 'rGRWe24.mat' are files containing the pressure head computed with the Truncation Scheme
+- 'rGRWe3.mat' ... 'rGRWe24.mat' are files containing the pressure head computed with the Truncation Scheme.
 
 - 'pFD.mat' is the file containing the finite difference solution.
   
