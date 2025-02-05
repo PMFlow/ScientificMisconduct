@@ -10,7 +10,7 @@ These results demonstrate the willful falsification of the results presented in 
 
 - 'main_Richy_1D_GRW.m' is the Matlab code for the biased GRW (BGRW) L-scheme for Richards' equation using the "reduced fluctuations algorithm".
 
-- 'main_Richy_1D_GRW_trunc.m' solves the Richards equation with a Truncation Scheme which disregards the rests of the truncations done by 'floor' functions.  
+- 'main_Richy_1D_GRW_trunc.m' solves the Richards equation with a Truncation Scheme which disregards the reminders of the truncations done by 'floor' functions.  
 
 - 'theta_exp.m' provides the unsaturated/saturated water content as a function of pressure head ccording to the exponential parameterization.
 
