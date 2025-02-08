@@ -95,8 +95,13 @@ while current_time<=Total_time
         pa=psi;
     end
 end
-p1=psi(:,:,17);
+%% original in GitHub/ GRW.m ===> Figs. 1a and 2a in Paper 2
+p1=psi(:,:,17); 
 soil_moisture_content1=soil_moisture_content(:,:,17);
+%% original in GitHub/ DRW.m ===> Figs. 1b and 2b in Paper 2
+% p1=psi(:,:,7);
+% soil_moisture_content1=soil_moisture_content(:,:,7);
+%%
 pp1=reshape(new_number_of_particles,1,9261);
 p21=reshape(psi,1,9261);
 % Plot the 3D mesh of p1
