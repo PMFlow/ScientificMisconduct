@@ -6,7 +6,7 @@ https://github.com/taekwonzysong/AI4Soil/tree/main/Ref.%20%5B27%5D
 
 These figures present solutions at the final time  having a similar appearance to the initial state. The reason is that the water content is not updated at the end of each time step, resulting in a wrong iterative scheme which fails to converge.
 
-The results given by the two codes are identical. However, while Figs. 1a and 2a correspond to a cross-section at y=1.7, Figs 1b and 2b are FABRICATED by taking a cross section at y=0.7 in 'DRW_Ref_27.m'.
+The results given by the two codes are identical. However, while Figs. 1a and 2a correspond to a cross-section at y=1.7, Figs 1b and 2b are FABRICATED by taking the cross section at y=0.7 in 'DRW_Ref_27.m'.
 #
 Thus, the comparison of the GRW and DRW approaches is FALSIFIED.
 
