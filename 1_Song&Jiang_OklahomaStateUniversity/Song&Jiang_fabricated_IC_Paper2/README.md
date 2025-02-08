@@ -10,9 +10,11 @@ These figures are obtained by altering the initial conditions formulated in this
 {x=2 and z\in [0,2]};
 - \varphy(t=0)=\varphy(t=0)+0.1 on the left boundary  {x=0 and z\in [0,2]};
 - \varphy(t=0)=\varphy(t=0)+0.1 on the left corner {x=0 and z=2}.
+
 Further, with
 - \varphy(t=0)=\varphy(t=0)-0.1 on the top right corner {x=2 and z=2},
 one obtains Figs. 1a and 2a.
+
 With
 - \varphy(t=0)=0 on the first half of the top boundary {x\in[0,1] and z=2}, and 
 - \varphy(t=0)=\varphy(t=0)+0.2 on the top right corner {x=2 and z=2},
