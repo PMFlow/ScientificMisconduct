@@ -10,6 +10,6 @@ The results given by the two codes are identical. However, while Figs. 1a and 2a
 #
 Thus, the comparison of the GRW and DRW approaches is FALSIFIED.
 ##
-- 'GRW_Ref_27.m' is the code for the Global Ransom Walk method downloaded in 01.02.2025 from https://github.com/taekwonzysong/AI4Soil/tree/main/Ref.%20%5B27%5D.
-- 'DRW_Ref_27.m' is the code for the Data-Driven Global Ransom Walk method downloaded in 01.02.2025 from https://github.com/taekwonzysong/AI4Soil/tree/main/Ref.%20%5B27%5D.
+- 'GRW_Ref_27.m' is the code for the Global Random Walk method downloaded in 01.02.2025 from https://github.com/taekwonzysong/AI4Soil/tree/main/Ref.%20%5B27%5D.
+- 'DRW_Ref_27.m' is the code for the Data-Driven Global Random Walk method downloaded in 01.02.2025 from https://github.com/taekwonzysong/AI4Soil/tree/main/Ref.%20%5B27%5D.
 - 'theta_GM' is the van Genuchten-Mualem parameterization of water content.
