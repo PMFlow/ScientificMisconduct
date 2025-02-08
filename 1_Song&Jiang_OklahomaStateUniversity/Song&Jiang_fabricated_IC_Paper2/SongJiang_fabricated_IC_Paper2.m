@@ -36,8 +36,9 @@ c0 = 1 - ((y'-c)/(d-c))*3+0*x;
 i0=1/dx; j0=1/dy; 
 c0(J,1:i0)=-2; % original benchmark !!!
 %% FABRICATION of the Initial conditions:
-c0(:,I)=0; c0(:,1)=c0(:,1)+0.1; c0(J,I)=c0(J,I)+0.1; % used to FABRICATE Figs. 1 and 2 in [Song & Jiang,2023];
-% c0(J,1:i0)=0; % used to obtain Figs. 1b and 2b in [Song & Jiang,2023]; when commented ---> Figs. 1a and 2a
+c0(:,I)=0; c0(:,1)=c0(:,1)+0.1; c0(1,I)=c0(1,I)+0.1; % used to FABRICATE Figs. 1 and 2 in [Song & Jiang,2023];
+c0(J,I)=c0(J,I)-0.1; % Figs. 1a and 2a
+c0(J,I)=c0(J,I)+0.2; c0(J,1:i0)=0; % when uncommented ---> Figs. 1b and 2b in [Song & Jiang,2023]; 
 %%
 c = c0; tht = theta(c);
 levels=12; 
