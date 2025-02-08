@@ -1,6 +1,6 @@
 A) FACTS presented in the repository https://github.com/PMFlow/ScientificMisconduct/tree/main/1_Song%26Jiang_OklahomaStateUniversity and mentioned in the two reports submitted to EthicsPoint | Oklahoma State University – a selection among many other elements of scientific misconduct.
 1. Plagiarism: use of published results and data files without giving appropriate credit (see red comment #3 on page 5 and red comment #3 on page 4 in "Paper1-commented.pdf", as well as the demonstration of falsifying the initial condition in order to hide the plagiarism in "Song&Jiang_falsification_IC_Paper1").
-2. Fabrication of results (see red comment #13 on page 5 in "Paper2-commented.pdf" and the demonstration of falsified comparison GRW/DRW - GRW and DRW codes give precisely the same result).
+2. Fabrication of results (see red comment #13 on page 5 in "Paper2-commented.pdf" and the demonstration of falsified comparison GRW/DRW - GRW and DRW codes give precisely the same result- in "Song&Jiang_fabrication_and_falsification_Paper2").
 3. Falsification of results produced by codes published in the literature (see red comment #4 and yellow comment #6 on page 3 in Paper1-commented.pdf, red comment #4 on page 14 in "Paper3-commented.pdf", and the demonstration of the false statement that the relation between the pressure head solution and the number of particles “is neither smooth nor explicit” in "Song&Jiang_falsification_GRWvsFD_Paper3").
 #
 B) COMMUNNICATION from EthicsPoint | Oklahoma State University (https://hr.okstate.edu/ethics-point.html)
