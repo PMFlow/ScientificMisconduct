@@ -98,7 +98,7 @@ end
 %% original in GitHub/ GRW.m ===> Figs. 1a and 2a in Paper 2
 p1=psi(:,:,17); 
 soil_moisture_content1=soil_moisture_content(:,:,17);
-%% by changing the position of the cross-section, GRW.m gives the Figs. 1b and 2b as well:
+%% by changing the position of the cross-section, GRW.m produces the Figs. 1b and 2b as well:
 % p1=psi(:,:,7);
 % soil_moisture_content1=soil_moisture_content(:,:,7);
 %%
