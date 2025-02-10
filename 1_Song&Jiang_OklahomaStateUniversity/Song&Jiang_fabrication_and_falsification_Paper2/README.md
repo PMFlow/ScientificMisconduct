@@ -12,7 +12,7 @@ Thus, the comparison of the GRW and DRW approaches is FALSIFIED.
 ##
 - 'GRW_Ref_27.m' is the code for the Global Random Walk method downloaded in 01.02.2025 from https://github.com/taekwonzysong/AI4Soil/tree/main/Ref.%20%5B27%5D;
   
-                 the comment at lines 98-104: shows that Figs 1a,1b,2a, 2b are obtained with the GRW code.
+                 the comment at lines 98-104 shows that Figs 1a,1b,2a, 2b are obtained with the GRW code.
   
 - 'DRW_Ref_27.m' is the code for the Data-Driven Global Random Walk method downloaded in 01.02.2025 from https://github.com/taekwonzysong/AI4Soil/tree/main/Ref.%20%5B27%5D.
 
